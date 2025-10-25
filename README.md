@@ -12,7 +12,7 @@ This tutorial teaches how to build a machine learning model for predicting ICU m
 
 ### Step 1: Clone/Download This Repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/sarathkrish/ICU-Mortality-Prediction-Tutorial.git
 cd ICU-Mortality-Prediction-Tutorial
 ```
 
